@@ -1,0 +1,11 @@
+.cliquez {
+	width: 500px;
+	height: 500px;
+	position: relative;
+	border: 1px black solid;
+	background-image:url(../res/cookie.png);
+}
+
+.test{
+	display: inline-flex;
+}
